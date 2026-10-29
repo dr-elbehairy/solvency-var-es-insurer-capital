@@ -66,9 +66,9 @@ if AR:
     _t = P("القيمة المعرّضة للخطر أم العجز المتوقع لرأس مال ملاءة شركات التأمين؟ أدلة من محافظ ناضجة ومصرية وسعودية", bold=True, align="c", size=14, after=12); RTL(_t)
     for _r in _t.runs: _r.font.size = Pt(15); _r.bold = True
 if not BLIND:
-    P("Moustafa Elbehairy ¹ *", align="c", size=12, after=2)
+    P("Moustafa Elbehairy ¹ ∗", align="c", size=12, after=2)
     P("¹ Department of Statistics and Insurance, Faculty of Commerce, Suez Canal University, Ismailia, Egypt", align="c", size=11, after=2)
-    P("* Corresponding author: moustafayosri@commerce.suez.edu.eg  |  ORCID 0009-0009-1062-9420", align="c", size=11, after=10)
+    P("∗ Corresponding author: moustafayosri@commerce.suez.edu.eg  |  ORCID 0009-0009-1062-9420", align="c", size=11, after=10)
 else:
     P("[Author details removed for double-blind review]", align="c", size=11, italic=True, after=10)
 if not AR:
