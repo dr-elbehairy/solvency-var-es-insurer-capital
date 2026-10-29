@@ -1,0 +1,82 @@
+{
+  "PORTS": {
+    "Conservative (US)": {
+      "SPX": 0.1,
+      "REIT": 0.05,
+      "IGCORP": 0.2,
+      "UST": 0.55,
+      "TBILL": 0.1
+    },
+    "Balanced (US)": {
+      "SPX": 0.25,
+      "REIT": 0.1,
+      "IGCORP": 0.2,
+      "UST": 0.4,
+      "TBILL": 0.05
+    },
+    "Growth (US)": {
+      "SPX": 0.45,
+      "REIT": 0.15,
+      "IGCORP": 0.15,
+      "UST": 0.2,
+      "TBILL": 0.05
+    },
+    "EEA representative": {
+      "STOXX": 0.22,
+      "EUPROP": 0.04,
+      "EUCORP": 0.36,
+      "EUGOV": 0.27,
+      "EUCASH": 0.11
+    },
+    "Egypt insurer": {
+      "EGX30": 0.15,
+      "EGDEV": 0.05,
+      "EGDEP": 0.7,
+      "USD_EGP": 0.05,
+      "SPX_EGP": 0.05
+    },
+    "Egypt insurer (real)": {
+      "EGX30_R": 0.15,
+      "EGDEV_R": 0.05,
+      "EGDEP_R": 0.7,
+      "USD_EGP_R": 0.05,
+      "SPX_EGP_R": 0.05
+    },
+    "Saudi insurer": {
+      "TASI": 0.2,
+      "SAREIT": 0.05,
+      "SUKUK": 0.3,
+      "SACASH": 0.45
+    }
+  },
+  "WINDOW": {
+    "Conservative (US)": [
+      "2010-01-05",
+      "2026-09-24"
+    ],
+    "Balanced (US)": [
+      "2010-01-05",
+      "2026-09-24"
+    ],
+    "Growth (US)": [
+      "2010-01-05",
+      "2026-09-24"
+    ],
+    "EEA representative": [
+      "2010-01-05",
+      "2026-09-24"
+    ],
+    "Egypt insurer": [
+      "2010-01-05",
+      "2026-09-24"
+    ],
+    "Egypt insurer (real)": [
+      "2010-01-05",
+      "2026-09-24"
+    ],
+    "Saudi insurer": [
+      "2020-01-02",
+      "2026-09-24"
+    ]
+  }
+}
