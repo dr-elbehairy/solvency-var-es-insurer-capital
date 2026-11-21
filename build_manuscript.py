@@ -111,7 +111,7 @@ if AR:
 # ================================================================== 1 INTRODUCTION
 H("1.  Introduction", 1)
 P("An insurer exists to absorb shocks its policyholders cannot, so the capital it must hold is defined by the worst year it is expected to survive. "
-  "Solvency II writes that definition as the value-at-risk of own funds over one year at 99.5 percent (Directive 2009/138/EC, Article 101). "
+  "Solvency II writes that definition as the value-at-risk of own funds over one year at 99.5 percent (European Parliament & Council, 2009, Article 101). "
   "The 2025 review, Directive (EU) 2025/2, applies from 30 January 2027 and widens the symmetric adjustment on the equity charge from ±10 to ±13 "
   "percentage points, but it leaves the measure and the confidence level where they were (European Parliament & Council, 2025; Lowet, 2026). "
   "European insurers are not short of capital against that yardstick: median SCR ratios at the end of 2024 were 230 percent for life, 216 percent "
@@ -151,7 +151,7 @@ P("Solvency II rests on three pillars: quantitative requirements, including the 
   "while it was being negotiated, and Christiansen and Niemeyer (2014) later gave the SCR a rigorous definition. The standard formula builds the "
   "requirement from modular sub-risks; its market module aggregates interest-rate, equity, property, spread, currency and concentration charges with "
   "prescribed correlations, applying 39 percent to listed EEA and OECD equity, 49 percent to other equity, 25 percent to property and 25 percent "
-  "to currency positions (Commission Delegated Regulation (EU) 2015/35). Gatzert and Martin (2012) showed that this module and an internal model "
+  "to currency positions (European Commission, 2015). Gatzert and Martin (2012) showed that this module and an internal model "
   "can diverge widely for the same portfolio, Braun, Schmeiser and Schreiber (2017) traced the asset allocations it implicitly rewards, Höring "
   "(2013) asked whether it binds at all, and Eling and Jung (2020) and Asadi and Al Janabi (2020) measured the aggregation error of the standard "
   "approach against internal models. Grochola and Schlütter (2024) add that discretionary choices inside the formula move reported ratios "
@@ -622,10 +622,10 @@ refs = [
  "Chen, Y., Stadje, M., & Zhang, F. (2024). On the equivalence between value-at-risk- and expected shortfall-based risk measures in non-concave optimization. *Insurance: Mathematics and Economics, 117*, 114–129. https://doi.org/10.1016/j.insmatheco.2024.04.002",
  "Christiansen, M. C., & Niemeyer, A. (2014). Fundamental definition of the solvency capital requirement in Solvency II. *ASTIN Bulletin, 44*(3), 501–533. https://doi.org/10.1017/asb.2014.10",
  "Christoffersen, P. F. (1998). Evaluating interval forecasts. *International Economic Review, 39*(4), 841–862. https://doi.org/10.2307/2527341",
- "Deng, K., & Qiu, J. (2021). Backtesting expected shortfall and beyond. *Quantitative Finance, 21*(7), 1109–1125. https://doi.org/10.1080/14697688.2020.1834121",
+ "Deng, K., & Qiu, J. (2021). Backtesting expected shortfall and beyond. *Quantitative Finance, 21*(7), 1109–1125. https://doi.org/10.1080/14697688.2020.1834120",
  "Dlamini, S., & Shongwe, S. (2026). Comparative analysis of tail risk in emerging and developed equity markets: An extreme value theory perspective. *International Journal of Financial Studies, 14*(1), 11. https://doi.org/10.3390/ijfs14010011",
  "Eling, M., & Jung, K. (2020). Risk aggregation in non-life insurance: Standard models vs. internal models. *Insurance: Mathematics and Economics, 95*, 183–198. https://doi.org/10.1016/j.insmatheco.2020.09.003",
- "Eling, M., Schmeiser, H., & Schmit, J. T. (2007). The Solvency II process: Overview and critical analysis. *Risk Management and Insurance Review, 10*(1), 69–85. https://doi.org/10.1111/j.1540-6296.2007.00125.x",
+ "Eling, M., Schmeiser, H., & Schmit, J. T. (2007). The Solvency II process: Overview and critical analysis. *Risk Management and Insurance Review, 10*(1), 69–85. https://doi.org/10.1111/j.1540-6296.2007.00106.x",
  "European Commission. (2015). Commission Delegated Regulation (EU) 2015/35 supplementing Directive 2009/138/EC (Solvency II). *Official Journal of the European Union*, L 12.",
  "European Insurance and Occupational Pensions Authority. (2024). *Financial stability report, December 2024*. EIOPA.",
  "European Insurance and Occupational Pensions Authority. (2025). *Financial stability report, June 2025*. EIOPA.",
